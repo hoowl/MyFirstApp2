@@ -19,6 +19,7 @@ public class DisplayMessageActivity extends AppCompatActivity {
         textView.setTextSize(40);
         textView.setText(message);
 
+        //testing 123
         setContentView(textView);
     }
 }
