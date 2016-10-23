@@ -20,6 +20,7 @@ public class DisplayMessageActivity extends AppCompatActivity {
         textView.setText(message);
 
         //testing 123
+        //testing 456
         setContentView(textView);
     }
 }
